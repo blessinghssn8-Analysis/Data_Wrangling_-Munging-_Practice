@@ -54,6 +54,7 @@ Real-world datasets often contain missing values, inconsistencies, and noise tha
 1. Clone the repository  
 2. Open the notebook in Google Colab or a local Jupyter environment  
 3. Install required dependencies  
-4. Run the notebook cells sequentially to reproduce the analysis and results  
+4. Run the notebook cells sequentially to reproduce the analysis and results
 
-## Project Structure
+## Practical Relevance
+This project reflects real-world machine learning workflows used in analytics, business intelligence, and predictive modeling roles. It demonstrates the ability to select, implement, and evaluate machine learning algorithms with a strong emphasis on interpretability, correctness, and practical decision-making.
